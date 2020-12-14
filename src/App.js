@@ -4,7 +4,7 @@ import './App.css';
 function App() {
    return (
       <div className="App">
-         <p>This is just a my wese bhi man mera tag</p>
+         <p>Hume koi farak nahi padta, dekho ye sab toh kismat ka khel hai</p>
       </div>
    );
 }
